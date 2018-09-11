@@ -27,6 +27,7 @@ class RaceCar
         $this->_maxSpeed = $maxSpeed;
     }
 
+
     /**
      * @return mixed
      */
